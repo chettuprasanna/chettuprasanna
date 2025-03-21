@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chettuprasanna
-- 👀 I’m interested in .at present now web development..
-- 🌱 I’m currently learning .java,html..
-- 💞️ I’m looking to collaborate on ..web development.
-- 📫 How to reach me ...
+- 👋 Hi, I'm @chettuprasanna
+👀 I'm currently interested in AI and web development.
+🌱 I'm learning C++,python,c,HTML,css,javascript..
+💞️ I'm looking to collaborate on exciting web development and AI projects.
+📫 Feel free to reach out to me!
 
 <!---
 chettuprasanna/chettuprasanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
